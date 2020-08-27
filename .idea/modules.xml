@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="dandiss-study-android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dandiss-study-android.iml" filepath="$PROJECT_DIR$/.idea/modules/dandiss-study-android.iml" group="dandiss-study-android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab10_2/lab10_2.iml" filepath="$PROJECT_DIR$/.idea/modules/lab10_2/lab10_2.iml" group="dandiss-study-android/lab10_2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/part2_3/part2_3.iml" filepath="$PROJECT_DIR$/.idea/modules/part2_3/part2_3.iml" group="dandiss-study-android/part2_3" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/part4_10/part4_10.iml" filepath="$PROJECT_DIR$/.idea/modules/part4_10/part4_10.iml" group="dandiss-study-android/part4_10" />
+    </modules>
+  </component>
+</project>

@@ -1,3 +1,5 @@
+include ':lab10_2'
+include ':part4_10'
 include ':part2_3'
 include ':app'
 rootProject.name = "dandiss-study-android"
